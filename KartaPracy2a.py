@@ -12,7 +12,7 @@ else:
 import math
 a = float(input())
 g = float(input())
-if a+g/2 > math.sqrt(a+g):
+if a+g/2 > math.sqrt(a*g):
   print("TAK")
 else:
   print("NIE")
