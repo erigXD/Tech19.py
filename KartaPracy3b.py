@@ -59,8 +59,8 @@
 
 # Zad 10
 # from math import sqrt
-# for i in range(1,1000):
-#   if i - (i//10)*10 == sqrt(i):
+# for i in range(1,1001):
+#   if (i % 10)**2 == i:
 #     print(i)
-#   elif i - (i//100)*100 == sqrt(i):
+#   elif (i % 100)**2 == i: # i % 10 / i % 100
 #     print(i)
