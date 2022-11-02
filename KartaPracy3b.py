@@ -58,9 +58,10 @@
 # print(suma)
 
 # Zad 10
-# from math import sqrt
 # for i in range(1,1001):
 #   if (i % 10)**2 == i:
 #     print(i)
 #   elif (i % 100)**2 == i: # i % 10 / i % 100
 #     print(i)
+
+# POWTÓRZYĆ NA PONIEDZIAŁEK
