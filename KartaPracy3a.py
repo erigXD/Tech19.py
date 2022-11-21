@@ -23,6 +23,31 @@
 #   else:
 #     print("|"*i, end="")
 
+# Zad 5
+# n = int(input())
+# for i in range(n):
+#   for j in range(n):
+#     if j == n//2:
+#       print("*", end="")
+#     elif i == n//2:
+#       print("-", end="")
+#     else:
+#       print(" ", end="")
+#   print()
+
+# Zad 6
+# n = int(input())
+# for i in range(n):
+#   for j in range(n):
+#     if i + j == n-1:
+#       print("?", end="")
+#     elif i - j == 0:
+#       print("*", end="")
+#     else:
+#       print(" ", end="")
+#   print()
+    
+
 # PRE - Tabliczka mnożenia
 
 # for i in range(1,11):
