@@ -63,5 +63,3 @@
 #     print(i)
 #   elif (i % 100)**2 == i: # i % 10 / i % 100
 #     print(i)
-
-# POWTÓRZYĆ NA PONIEDZIAŁEK

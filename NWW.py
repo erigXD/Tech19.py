@@ -13,3 +13,12 @@ print(w * k / a)
 
 # WZÓR:
 # a * b = NWD * NWW
+
+x = w
+y = k
+while x!=y:
+  if y>x: 
+    y-=x
+  else:
+    x-=y
+
