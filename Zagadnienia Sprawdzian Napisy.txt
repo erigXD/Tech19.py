@@ -35,3 +35,5 @@
 # 10. Wypisz literki, których nie ma w napisie
 
 # 11. Znajdź ilość trzyznakowych palindromów w napisie (trzy literki koło siebie)
+
+1 1 2 2 3 3 3 - dominanta (czyli to co występuje najwięcej razy) - w tym przypadku 3
