@@ -30,7 +30,7 @@
 # 8. Sprawdź czy w napisie występują trzy podciągi "LA"
 
 # 9. Znajdź "średnią literkę" w napisie. (Przejdź na kody ASCII i jeśli wynik będzie
-# ułamkowy to zaokrąglij średnią w dół)
+# ułamkowy to zaokrąglij średnią w dół) <można zrobić wersję w górę>
 
 # 10. Wypisz literki, których nie ma w napisie
 
