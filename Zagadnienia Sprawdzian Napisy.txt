@@ -28,6 +28,7 @@
 # 7. Znajdź literkę-dominantę w napisie (może ich być kilka, a może nie być żadnej)
 
 # 8. Sprawdź czy w napisie występują trzy podciągi "LA"
+# tip: h[i:i+2] == "LA"
 
 # 9. Znajdź "średnią literkę" w napisie. (Przejdź na kody ASCII i jeśli wynik będzie
 # ułamkowy to zaokrąglij średnią w dół) <można zrobić wersję w górę>
@@ -35,5 +36,6 @@
 # 10. Wypisz literki, których nie ma w napisie
 
 # 11. Znajdź ilość trzyznakowych palindromów w napisie (trzy literki koło siebie)
+# tip: funkcja palik(k[i:i+2])
 
 1 1 2 2 3 3 3 - dominanta (czyli to co występuje najwięcej razy) - w tym przypadku 3
