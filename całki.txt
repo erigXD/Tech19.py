@@ -1,0 +1,16 @@
+-- OGÓLNY WZÓR --
+/ x^n dx = x^n+1 / n+1
+
+dx - robienie to w x
+/ - całka (takie S)
+
+/ x^5 dx = x^6 / 6
+
+
+b
+/ f(x) dx = F(b) - F(a)
+a
+
+6                        6 - na górze zawsze większa
+/ x + 3 dx = [x^2/2 + 3x] = (6^2/2 + 36) - (2^2/2 + 3 * 2) = 36 - 8 = 28
+2                        2
